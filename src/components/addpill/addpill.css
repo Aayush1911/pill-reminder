@@ -1,0 +1,45 @@
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: red;
+}
+.med input,
+.datetime input,
+.carename input,
+.emails input{
+    margin-top: 10px;
+    width: 100%;
+    height: 3.8vh;
+    border: 1px solid black;
+}
+.med ,
+.datetime,
+.carename ,
+.emails {
+    margin: 25px 30px;
+}
+.submitbtn{
+    margin: 15px 30px;
+    background-color: rgb(76, 76, 194);
+    color: white;
+    height: 5vh;
+    width: 10vw;
+    border: 1px solid black;
+}
+.box{
+    border:3px solid black;
+    border-radius: 30px;
+    width: 35vw;
+    margin: auto;
+    padding: 0;
+    margin-top: 50px;
+}
+label{
+    font-weight:normal;
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#date_time{
+    height: 3.8vh;
+}

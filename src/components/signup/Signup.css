@@ -1,0 +1,60 @@
+.signup{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .signup-box{
+        padding: 15px;
+        width: 400px;
+        border:2px solid black;
+        border-radius: 20px;
+        height: 65vh;
+
+    }
+
+    .heading{
+        text-align: center;
+        color:red;
+        font-size:2rem;
+        font-weight: 600;
+    }
+
+    label{
+        font-weight: bold;
+    }
+
+    label,input{
+        width: 90%;
+        display: block;
+        margin-block: 8px;
+        
+    }
+    .password{
+        margin-top: 10px;
+    }
+    input{
+        padding: 8px 16px;
+        border-radius: 5px;
+        border:1px solid black
+    }
+
+    .submit{
+        border: 0;
+        background-color: #24b4ff;
+        font-weight: bold;
+        margin-top: 15px;
+        border-radius:5px;
+        width: 100%;
+    }
+
+    .submit:hover{
+        background-color:#249dde;
+        border:1px solid black
+    }
+
+    .subheading{
+        margin-top: 10px;
+    }
+
+}
