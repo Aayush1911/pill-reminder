@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import addnew from "./slices/addnew";  // Adjust the import based on your actual file structure
+import addnew from "./slices/addnew";  
 
 export default configureStore({
     reducer: {
