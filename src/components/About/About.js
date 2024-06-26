@@ -5,7 +5,7 @@ function About() {
     <div>
       <div className="about">
         <h3>Project Name : Pill Reminder</h3>
-        <p>Id : 462483</p>
+        <p>Id : 545486</p>
         <h5>Team Members : 
             <ol>
                 <li>Jaimil Kothari</li><br />
